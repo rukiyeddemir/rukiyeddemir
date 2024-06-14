@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate Engineer with an MSc in Data Sci
 
 ### Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rukiye-demir/) - For more information and to get in touch.
-- ✍️ [Medium](https://medium.com/@rukiyeddemir) - For my latest articles and content.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rukiyedemir/) - For more information and to get in touch.
+- ✍️ [Medium](https://medium.com/@rukiyedemir) - For my latest articles and content.
 
 
